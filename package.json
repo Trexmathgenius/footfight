@@ -1,7 +1,7 @@
 {
   "name": "footwork-steel-server",
-  "version": "1.0.0",
-  "description": "Matchmaking and relay server for Footwork & Steel online duels",
+  "version": "1.1.0",
+  "description": "Matchmaking and relay server for Footwork & Steel online duels and free-for-all parties",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
